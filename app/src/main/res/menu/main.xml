@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="About me"
+        android:id="@+id/itemAbout"/>
+    <item
+        android:title="Change Background"
+        android:id="@+id/itemChange"/>
+    <item
+        android:title="Create Backup"
+        android:id="@+id/itemBackup"/>
+    <item
+        android:title="Share Timetable"
+        android:id="@+id/itemShare"/>
+    <item
+        android:title="Import Timetable"
+        android:id="@+id/itemImport"/>
+    <item
+        android:title="Delete Timetable"
+        android:id="@+id/itemDelete"/>
+    <item
+        android:title="Exit"
+        android:id="@+id/itemExit"/>
+    <item
+        android:title="Share"
+        android:id="@+id/mShare"
+        android:icon="@mipmap/ic_action_share"
+        app:showAsAction="always" />
+    <item
+        android:title="Import"
+        android:id="@+id/mImport"
+        android:icon="@mipmap/ic_action_download"
+        app:showAsAction="always"/>
+
+</menu>

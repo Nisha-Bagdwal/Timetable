@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mon"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Monday" />
+        <item
+            android:id="@+id/nav_tue"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Tuesday" />
+        <item
+            android:id="@+id/nav_wed"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Wednesday" />
+        <item
+            android:id="@+id/nav_thu"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Thursday" />
+        <item
+            android:id="@+id/nav_fri"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Friday" />
+        <item
+            android:id="@+id/nav_sat"
+            android:icon="@mipmap/ic_action_view_as_list"
+            android:title="Saturday" />
+    </group>
+
+</menu>

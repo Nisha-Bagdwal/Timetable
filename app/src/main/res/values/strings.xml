@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timetable</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about">Hello friend, I\'m Nisha Bagdwal-creator of this application "Timetable". Whether you are in
+        school or college, this application would be a great help to you anytime you want to know your timetable. Hope you like it...:) \nP.S. Your today\'s timetable is just a click away.</string>
+</resources>
